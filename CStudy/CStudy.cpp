@@ -3,9 +3,9 @@
 #include <thread>
 #include <mutex>
 using namespace std;
-
-// MUTEX 멀티 스레딩 동기화 예제
-
+/**
+ * MUTEX 멀티 스레딩 동기화 예제
+ */
 int value;
 mutex value_mutex;
 

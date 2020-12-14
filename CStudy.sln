@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CStudy", "CStudy\CStudy.vcxproj", "{CA077F18-8C74-4F65-84EA-964CA6F4E9AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunctionPointer", "FunctionPointer\FunctionPointer.vcxproj", "{ADCC3526-D2E3-42D4-BC31-05FC553D659F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{CA077F18-8C74-4F65-84EA-964CA6F4E9AF}.Release|x64.Build.0 = Release|x64
 		{CA077F18-8C74-4F65-84EA-964CA6F4E9AF}.Release|x86.ActiveCfg = Release|Win32
 		{CA077F18-8C74-4F65-84EA-964CA6F4E9AF}.Release|x86.Build.0 = Release|Win32
+		{ADCC3526-D2E3-42D4-BC31-05FC553D659F}.Debug|x64.ActiveCfg = Debug|x64
+		{ADCC3526-D2E3-42D4-BC31-05FC553D659F}.Debug|x64.Build.0 = Debug|x64
+		{ADCC3526-D2E3-42D4-BC31-05FC553D659F}.Debug|x86.ActiveCfg = Debug|Win32
+		{ADCC3526-D2E3-42D4-BC31-05FC553D659F}.Debug|x86.Build.0 = Debug|Win32
+		{ADCC3526-D2E3-42D4-BC31-05FC553D659F}.Release|x64.ActiveCfg = Release|x64
+		{ADCC3526-D2E3-42D4-BC31-05FC553D659F}.Release|x64.Build.0 = Release|x64
+		{ADCC3526-D2E3-42D4-BC31-05FC553D659F}.Release|x86.ActiveCfg = Release|Win32
+		{ADCC3526-D2E3-42D4-BC31-05FC553D659F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
